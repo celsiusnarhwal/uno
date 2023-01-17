@@ -19,7 +19,7 @@ git clone https://github.com/celsiusnarhwal/uno
 
 You can use these tables to help determine which files correspond to which cards. Pick a color and a suit, join
 the corresponding codes, and find the file whose name matches the result (e.g. the code for the color Blue is B and
-the code for the suit Reverse is R, so the file for Blue Reverse is `BR.png`.)
+the code for the suit Reverse is R, so the file for Blue Reverse is `BR.png`).
 
 For Wild, Wild +4, and Blank, refer to the "Special Cases" table.
 
